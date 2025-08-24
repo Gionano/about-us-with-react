@@ -1,4 +1,4 @@
-# Halaman "Tentang Kami" Interaktif dengan Latar Belakang Karakter Anime
+# Halaman "Tentang Kami" Interaktif dengan Latar Belakang Karakter 
 
 Proyek ini adalah sebuah komponen React tunggal yang menciptakan halaman "Tentang Kami" (About Us) yang sangat dinamis dan imersif secara visual. Dibangun dengan **React**, **TypeScript**, dan **Framer Motion**, halaman ini menampilkan latar belakang animasi yang kompleks dengan karakter bergaya anime yang bergerak merespons scroll pengguna, efek partikel, dan animasi konten yang elegan.
 
@@ -168,3 +168,4 @@ const colorThemes = {
 ## 📄 Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk detail lebih lanjut.
+
